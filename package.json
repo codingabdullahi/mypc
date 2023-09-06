@@ -1,0 +1,19 @@
+{
+  "name": "mypc",
+  "version": "1.0.0",
+  "description": "mypc is a web application that give you every  information about your pc or your device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingabdullahi/mypc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingabdullahi/mypc/issues"
+  },
+  "homepage": "https://github.com/codingabdullahi/mypc#readme"
+}
